@@ -1,0 +1,18 @@
+{
+  "name": "Outbound Batu Malang Adventure",
+  "short_name": "Outbound Batu",
+  "description": "Provider Resmi Outbound, Gathering & Adventure Terbaik di Kota Wisata Batu Malang",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#0F172A",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

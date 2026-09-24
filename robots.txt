@@ -1,0 +1,46 @@
+# robots.txt for https://outboundbatumalang.web.id/
+# Optimized for Search Engines, AI Overviews (AEO) & Generative Engine Optimization (GEO)
+
+User-agent: *
+Allow: /
+Disallow: /*.json$
+
+# Google Search & Google AI Overviews
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# OpenAI / ChatGPT / SearchGPT
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Perplexity AI Engine
+User-agent: PerplexityBot
+Allow: /
+
+# Anthropic Claude
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Microsoft Bing & Copilot
+User-agent: Bingbot
+Allow: /
+
+# Apple Search & Siri
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Host & Sitemap Directives
+Host: https://outboundbatumalang.web.id
+Sitemap: https://outboundbatumalang.web.id/sitemap.xml

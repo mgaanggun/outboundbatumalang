@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- 1. Halaman Utama / Beranda -->
+  <url>
+    <loc>https://outboundbatumalang.web.id/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://outboundbatumalang.web.id/assets/images/hero/hero_batu.webp</image:loc>
+      <image:title>Provider Outbound Batu Malang Adventure</image:title>
+      <image:caption>Kegiatan outbound team building dan gathering perusahaan di Kota Wisata Batu Malang</image:caption>
+    </image:image>
+  </url>
+
+  <!-- 2. Katalog Paket Outbound -->
+  <url>
+    <loc>https://outboundbatumalang.web.id/paket.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://outboundbatumalang.web.id/assets/images/packages/package_teambuilding.webp</image:loc>
+      <image:title>Paket Outbound Team Building Batu Malang</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://outboundbatumalang.web.id/assets/images/packages/package_rafting.webp</image:loc>
+      <image:title>Paket Outbound Rafting Kaliwatu Batu</image:title>
+    </image:image>
+  </url>
+
+  <!-- 3. Profil & Legalitas: Tentang Kami -->
+  <url>
+    <loc>https://outboundbatumalang.web.id/tentang-kami.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://outboundbatumalang.web.id/assets/images/hero/about_hero_mountain.webp</image:loc>
+      <image:title>Tim Fasilitator Bersertifikasi BNSP Outbound Batu Malang</image:title>
+    </image:image>
+  </url>
+
+  <!-- 4. Portofolio Klien & Dokumentasi -->
+  <url>
+    <loc>https://outboundbatumalang.web.id/portofolio.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://outboundbatumalang.web.id/assets/images/gallery/gallery_cheer.webp</image:loc>
+      <image:title>Dokumentasi Event Outbound &amp; Gathering Batu Malang</image:title>
+    </image:image>
+  </url>
+
+  <!-- 5. Hub Blog & Artikel Edukasi -->
+  <url>
+    <loc>https://outboundbatumalang.web.id/blog.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ==================== PROGRAM PILIHAN ==================== -->
+  <!-- 6. Program: Team Building -->
+  <url>
+    <loc>https://outboundbatumalang.web.id/program/team-building/team-building.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 7. Program: Outbound Fun Games & Training -->
+  <url>
+    <loc>https://outboundbatumalang.web.id/program/outbound/outbound.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 8. Program: Camping Ground Coban Rondo -->
+  <url>
+    <loc>https://outboundbatumalang.web.id/program/camping/camping.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 9. Program: Luxury Glamping -->
+  <url>
+    <loc>https://outboundbatumalang.web.id/program/glamping/glamping.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 10. Program: Gala Dinner & Awarding Night -->
+  <url>
+    <loc>https://outboundbatumalang.web.id/program/gala-dinner/gala-dinner.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 11. Program: Outdoor Meeting & Strategic Raker -->
+  <url>
+    <loc>https://outboundbatumalang.web.id/program/outdoor-meeting/outdoor-meeting.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 12. Program: Offroad Jeep 4x4 Batu -->
+  <url>
+    <loc>https://outboundbatumalang.web.id/program/offroad/offroad.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 13. Program: Bromo Sunrise Midnight Tour -->
+  <url>
+    <loc>https://outboundbatumalang.web.id/program/bromo-sunrise/bromo-sunrise.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 14. Program: Outbound Pantai Malang Selatan -->
+  <url>
+    <loc>https://outboundbatumalang.web.id/program/outbound-pantai/outbound-pantai.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ==================== ARTIKEL BLOG ==================== -->
+  <!-- 15. Artikel: Estimasi Biaya Outbound Batu Malang -->
+  <url>
+    <loc>https://outboundbatumalang.web.id/blog/estimasi-biaya-outbound-batu-malang.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- 16. Artikel: Panduan Konsep Team Building Efektif -->
+  <url>
+    <loc>https://outboundbatumalang.web.id/blog/panduan-konsep-team-building-efektif.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- 17. Artikel: Rekomendasi Lokasi Outbound & Camping Batu -->
+  <url>
+    <loc>https://outboundbatumalang.web.id/blog/rekomendasi-lokasi-outbound-camping-batu.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>
